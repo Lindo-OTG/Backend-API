@@ -34,15 +34,15 @@ WEATHER_API_KEY=YOUR_API_KEY
 ```
 
 ### Running the Application
-Start the application: npm start
+Start the application: `npm start`
 
 The application will be running at http://localhost:3000.
 
 ### Docker
 You can also run the application in a **Docker container**:
 
-* Build the Docker image: docker build -t backend-api .
-* Run the application in a Docker container: docker run -p 3000:3000 -d backend-api
+* Build the Docker image: `docker build -t backend-api .`
+* Run the application in a Docker container: `docker run -p 3000:3000 -d backend-api`
 
 ### Running the Tests
 Run the tests: npm test
