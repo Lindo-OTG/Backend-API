@@ -53,10 +53,10 @@ A `test-results.xml` file will be created with the test results.
 API documentation is available at http://localhost:3000/api-docs (when the application is running).
 
 ### Built With
-Node.js - JavaScript runtime
-Express - Web application framework
-MS SQL Server - Database
-Docker - Containerization platform
+* Node.js - JavaScript runtime
+* Express - Web application framework
+* MS SQL Server - Database
+* Docker - Containerization platform
 
 ### License
 This project is licensed under the MIT License.
