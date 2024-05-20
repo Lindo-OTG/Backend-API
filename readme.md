@@ -14,8 +14,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-1. Clone the repository: `git clone https://github.com/yourusername/Ecommerce-Backend-API.git`
-2. Navigate to the project directory: `cd Ecommerce-Backend-API`
+1. Clone the repository: `git clone https://github.com/Lindo-OTG/Backend-API.git`
+2. Navigate to the project directory: `cd Backend-API`
 3. Install the dependencies: `npm install`
 
 ### Configuration
@@ -46,6 +46,7 @@ Run the application in a Docker container: docker run -p 3000:3000 -d backend-ap
 
 ### Running the Tests
 Run the tests: npm test
+
 A `test-results.xml` file will be created with the test results.
 
 ### API Documentation
