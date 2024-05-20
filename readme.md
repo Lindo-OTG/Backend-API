@@ -34,7 +34,9 @@ WEATHER_API_KEY=YOUR_API_KEY
 ```
 
 ### Running the Application
-Start the application: `npm start`
+1. run the database script (`database.sql`) to create the Ecommerce SQL database.
+2. Update the .env file with all your details, see `.env.sample`. simply rename the file to `.env` and replace the values with your values.
+3. Start the application: `npm start`.
 
 The application will be running at http://localhost:3000.
 
@@ -45,7 +47,7 @@ You can also run the application in a **Docker container**:
 * Run the application in a Docker container: `docker run -p 3000:3000 -d backend-api`
 
 ### Running the Tests
-Run the tests: npm test
+Run the tests: `npm test`
 
 A `test-results.xml` file will be created with the test results.
 
